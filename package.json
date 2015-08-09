@@ -1,0 +1,36 @@
+{
+  "name": "@xolvio/jasmine-expect",
+  "version": "1.0.0",
+  "description": "Jasmine expect standalone",
+  "keywords": [
+    "expect",
+    "assert"
+  ],
+  "author": "Jonas Aschenbrenner <jonas@xolv.io> (http://xolv.io)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xolvio/jasmine-expect"
+  },
+  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/xolvio/jasmine-expect/issues"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "main": "index.js",
+  "jest": {
+    "moduleFileExtensions": [
+      "js",
+      "json",
+      "node"
+    ]
+  },
+  "dependencies": {
+    "jasmine-core": "^2.3.4"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.4.17"
+  }
+}
