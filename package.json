@@ -1,5 +1,5 @@
 {
-  "name": "@xolvio/jasmine-expect",
+  "name": "xolvio-jasmine-expect",
   "version": "1.0.0",
   "description": "Jasmine expect standalone",
   "keywords": [
