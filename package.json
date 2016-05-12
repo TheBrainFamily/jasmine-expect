@@ -20,20 +20,12 @@
     "test": "jest"
   },
   "main": "index.js",
-  "jest": {
-    "moduleFileExtensions": [
-      "js",
-      "json",
-      "node"
-    ]
-  },
   "dependencies": {
     "jasmine-core": "^2.4.1"
   },
   "devDependencies": {
     "browserify": "^13.0.1",
     "electron-prebuilt": "^1.0.1",
-    "jest-cli": "^0.4.17",
     "wallabify": "0.0.14"
   }
 }
