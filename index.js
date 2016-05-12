@@ -1,5 +1,5 @@
 var util = require('util');
-var jRequire = require('jasmine-core');
+var jRequire = require('jasmine-core/lib/jasmine-core/jasmine');
 var j$ = jRequire.core(jRequire);
 
 function ExpectationFailed(message, result) {
