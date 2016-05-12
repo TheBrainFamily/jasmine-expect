@@ -28,7 +28,7 @@
     ]
   },
   "dependencies": {
-    "jasmine-core": "^2.3.4"
+    "jasmine-core": "^2.4.1"
   },
   "devDependencies": {
     "jest-cli": "^0.4.17"
