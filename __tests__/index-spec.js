@@ -1,5 +1,3 @@
-jest.autoMockOff();
-
 describe('expect', function () {
   var expect = require('../index').expect;
 
